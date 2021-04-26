@@ -3,7 +3,7 @@ layout: default
 title: "Assignments"
 ---
 
-- [Short Paper 1](/assets/paper1.pdf)\\
+- [Short Paper 1](/assets/Paper1.pdf)\\
 Due Date: `5/7/2021` 
 
 &nbsp; &nbsp;  Short Paper 2\\
