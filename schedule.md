@@ -15,7 +15,7 @@ Fridays 18:00 pm - 19:40 pm
 * Apr 23. Lecture 2. `Logic and Arguments`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: [Class handout](/assets/Logic_Handout.pdf)
 
-  Apr 28. Lecture 3. `Philosophy, Religion and Society`\\
+*  Apr 28. Lecture 3. `Philosophy, Religion and Society`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Plato. *Apology*
 
   Apr 30.  Lecture 4. `Why Believe?`\\
@@ -28,7 +28,7 @@ Fridays 18:00 pm - 19:40 pm
   May 7. Lecture 5. `Metaphysical Skepticism I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: Rene Descartes. *Meditations I* \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  David Hume. "Of Skepticism with Regard to the Senses" \\
-&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 1 Due](assignments.html)**
+&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 1 Due](/assets/Paper1.pdf)**
 
   May 12. Lecture 6. `Metaphysical Skepticism II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Jonathan Vogel. "Cartesian Skepticism and Inference to the Best Explanation"
@@ -63,7 +63,7 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 3 Due](assignments.html)** 
 
   June 9. Lecture 14. `Kantian Ethics`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Aristotle. *Groundwork of the Metaphysic of Morals* (Excerpt)
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Kant. *Groundwork of the Metaphysic of Morals* (Excerpt)
 
   June 11. Lecture 15. `Justice`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Rawls. *A Theory of Justice* (Excerpt)
