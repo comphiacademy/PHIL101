@@ -15,7 +15,7 @@ Fridays 18:00 pm - 19:40 pm
 * Apr 23. Lecture 2. `Logic and Arguments`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: [Class handout](/assets/Logic_Handout.pdf)
 
-*  Apr 28. Lecture 3. `Philosophy, Religion and Society`\\
+* Apr 28. Lecture 3. `Philosophy, Religion and Society`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Plato. *Apology*
 
   Apr 30.  Lecture 4. `Why Believe?`\\
