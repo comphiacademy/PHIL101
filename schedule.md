@@ -18,7 +18,7 @@ Fridays 18:00 pm - 19:40 pm
 * Apr 28. Lecture 3. `Philosophy, Religion and Society`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Plato. *Apology*
 
-  Apr 30.  Lecture 4. `Why Believe?`\\
+* Apr 30.  Lecture 4. `Why Believe?`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: St. Anselm. "The Ontological Argument"  \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; St. Thomas Aquinas. "The Existence of God"
 
