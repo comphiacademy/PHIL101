@@ -25,7 +25,7 @@ Fridays 18:00 pm - 19:40 pm
 
   May 5. Labour day, no class. 
 
-  May 7. Lecture 5. `Metaphysical Skepticism I`\\
+*  May 7. Lecture 5. `Metaphysical Skepticism I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: Rene Descartes. *Meditations I* \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  David Hume. "Of Skepticism with Regard to the Senses" \\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 1 Due](/assets/Paper1.pdf)**
@@ -46,7 +46,7 @@ Fridays 18:00 pm - 19:40 pm
 
   May 21. Lecture 9. `Mind and Body I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  Rene Descartes. *Meditations II* & *VI*\\
-&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 2 Due](assignments.html)** 
+&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 2 Due](/assets/Paper2.pdf)** 
 
   May 26. Lecture 10. `Mind and Body II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Ryle. "Descartes' Myth"
