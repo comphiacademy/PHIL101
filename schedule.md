@@ -30,7 +30,7 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  David Hume. "Of Skepticism with Regard to the Senses" \\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 1 Due](/assets/Paper1.pdf)**
 
-  May 12. Lecture 6. `Metaphysical Skepticism II`\\
+* May 12. Lecture 6. `Metaphysical Skepticism II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Jonathan Vogel. "Cartesian Skepticism and Inference to the Best Explanation"
 
 
