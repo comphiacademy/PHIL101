@@ -35,13 +35,14 @@ Fridays 18:00 pm - 19:40 pm
 
 
 
-  May 14.  Lecture 7. `The Nature of Knowledge I`\\
+* May 14.  Lecture 7. `The Nature of Knowledge I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Plato. *Meno*
 
 
   May 19. Lecture 8. `The Nature of Knowledge II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: Gettier. "Is Justified True Belief Knowledge?" \\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Zagzebski. "The Inescapability of Gettier Problems" 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Zagzebski. "The Inescapability of Gettier Problems" \\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Class handout](/assets/Knowledge_Handout.pdf)
 
 
   May 21. Lecture 9. `Mind and Body I`\\
@@ -63,7 +64,7 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 3 Due](assignments.html)** 
 
   June 9. Lecture 14. `Kantian Ethics`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Kant. *Groundwork of the Metaphysic of Morals* (Excerpt)
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Kant. *Groundwork of the Metaphysics of Morals* (Excerpt)
 
   June 11. Lecture 15. `Justice`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Rawls. *A Theory of Justice* (Excerpt)
