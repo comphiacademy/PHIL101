@@ -39,14 +39,15 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Plato. *Meno*
 
 
-  May 19. Lecture 8. `The Nature of Knowledge II`\\
+* May 19. Lecture 8. `The Nature of Knowledge II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: Gettier. "Is Justified True Belief Knowledge?" \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Zagzebski. "The Inescapability of Gettier Problems" \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Class handout](/assets/Knowledge_Handout.pdf)
 
 
-  May 21. Lecture 9. `Mind and Body I`\\
+* May 21. Lecture 9. `Mind and Body I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  Rene Descartes. *Meditations II* & *VI*\\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Class handout](/assets/Reading_Handout.pdf)\\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 2 Due](/assets/Paper2.pdf)** 
 
   May 26. Lecture 10. `Mind and Body II`\\
