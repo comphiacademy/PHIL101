@@ -46,12 +46,14 @@ Fridays 18:00 pm - 19:40 pm
 
 
 * May 21. Lecture 9. `Mind and Body I`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading:  Rene Descartes. *Meditations II* & *VI*\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings:  Rene Descartes. *Meditations II* & *VI*\\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Class handout](/assets/Reading_Handout.pdf)\\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 2 Due](/assets/Paper2.pdf)** 
 
   May 26. Lecture 10. `Mind and Body II`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Ryle. "Descartes' Myth"
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Ryle. "Descartes' Myth" \\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Writing Slides 1](/assets/Writing1.pdf)\\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Writing Slides 2](/assets/Writing2.pdf)
 
   May 28. Lecture 11. `Mind and Computation`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Searle. "Minds, Brains, and Programs"
