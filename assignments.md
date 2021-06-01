@@ -12,7 +12,7 @@ Due Date: `5/21/2021`
 - [Short Paper 3](/assets/Paper3.pdf)\\
 Due Date: `6/4/2021` 
 
-&nbsp; &nbsp;  Term Paper\\
+- [Term Paper](/assets/TermPaper.pdf)\\
 &nbsp; &nbsp; Due Data: Before `6/21/2021`
 
 - [Grading Rubric](/assets/Rubric.pdf)

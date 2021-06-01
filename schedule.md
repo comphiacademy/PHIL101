@@ -50,12 +50,12 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Class handout](/assets/Reading_Handout.pdf)\\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 2 Due](/assets/Paper2.pdf)** 
 
-  May 26. Lecture 10. `Mind and Body II`\\
+* May 26. Lecture 10. `Mind and Body II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Ryle. "Descartes' Myth" \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Writing Slides 1](/assets/Writing1.pdf)\\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Writing Slides 2](/assets/Writing2.pdf)
 
-  May 28. Lecture 11. `Mind and Computation`\\
+* May 28. Lecture 11. `Mind and Computation`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Searle. "Minds, Brains, and Programs"
 
 
@@ -64,7 +64,7 @@ Fridays 18:00 pm - 19:40 pm
 
   June 4. Lecture 13. `Utilitarianism`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  John Stuart Mill. *Utilitarianism* (Excerpt)\\
-&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 3 Due](assignments.html)** 
+&nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 3 Due](/assets/Paper3.pdf)** 
 
   June 9. Lecture 14. `Kantian Ethics`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Kant. *Groundwork of the Metaphysics of Morals* (Excerpt)
@@ -72,11 +72,13 @@ Fridays 18:00 pm - 19:40 pm
   June 11. Lecture 15. `Justice`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Rawls. *A Theory of Justice* (Excerpt)
 
-  June 16. Lecture 16. `The Meaning of Life I`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Readings: Albert Camus. "The Myth of Sisyphus" \\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Susan Wolf. "The Meaning of Lives" 
+  June 16. Lecture 16-18. `Social and Political Philosophy`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes]. 
 
-  June 18. Lecture 17. `The Meaning of Life II`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Readings: Amy Olberding. "Sorrow and the Sage: Grief in the Zhuangzi" 
+  June 17. Lecture 19. `Philosophy of Science`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes].
 
-  June 21. **[Term Paper Due](assignments.html)** 
+  June 18. Lecture 20. `Chinese Philosophy`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes].
+
+  June 21. **[Term Paper Due](/assets/TermPaper.pdf)** 
