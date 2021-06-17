@@ -59,24 +59,24 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Searle. "Minds, Brains, and Programs"
 
 
-  June 2.  Lecture 12. `Aristotelian Ethics`\\
+* June 2.  Lecture 12. `Aristotelian Ethics`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Aristotle. *Nichomachean Ethics* (Excerpt)
 
-  June 4. Lecture 13. `Utilitarianism`\\
+* June 4. Lecture 13. `Utilitarianism`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  John Stuart Mill. *Utilitarianism* (Excerpt)\\
 &nbsp; &nbsp; &nbsp; &nbsp; **[Short Paper 3 Due](/assets/Paper3.pdf)** 
 
-  June 9. Lecture 14. `Kantian Ethics`\\
+* June 9. Lecture 14. `Kantian Ethics`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Kant. *Groundwork of the Metaphysics of Morals* (Excerpt)
 
-  June 11. Lecture 15. `Justice`\\
+* June 11. Lecture 15. `Justice`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: John Rawls. *A Theory of Justice* (Excerpt)
 
-  June 16. Lecture 16-18. `Social and Political Philosophy`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes]. 
+* June 16. Lecture 16-18. `Social and Political Philosophy`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/PolPhi.pdf). 
 
-  June 17. Lecture 19. `Philosophy of Science`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes].
+* June 17. Lecture 19. `Philosophy of Science`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/PhiSci.pdf).
 
   June 18. Lecture 20. `Chinese Philosophy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes].
