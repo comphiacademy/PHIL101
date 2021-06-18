@@ -79,6 +79,6 @@ Fridays 18:00 pm - 19:40 pm
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/PhiSci.pdf).
 
   June 18. Lecture 20. `Chinese Philosophy`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes].
+&nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/ChinesePhilosophy.pdf).
 
   June 21. **[Term Paper Due](/assets/TermPaper.pdf)** 
