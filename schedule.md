@@ -78,7 +78,7 @@ Fridays 18:00 pm - 19:40 pm
 * June 17. Lecture 19. `Philosophy of Science`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/PhiSci.pdf).
 
-  June 18. Lecture 20. `Chinese Philosophy`\\
+* June 18. Lecture 20. `Chinese Philosophy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Readings: [Notes](/assets/ChinesePhilosophy.pdf).
 
   June 21. **[Term Paper Due](/assets/TermPaper.pdf)** 
